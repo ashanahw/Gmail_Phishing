@@ -1067,6 +1067,7 @@
   top: 0;
 }
 </style>
+	
 <style>
 .chromiumsync-custom-content {
   padding-top: 20px;
@@ -2066,7 +2067,6 @@ shift-form">
 </div>
   <div class="card-mask-wrap
     
-        
      no-name shift-form">
   <div class="card-mask">
   <div class="one-google">
