@@ -19,5 +19,4 @@
 			
 			session_destroy();
 			
-
 ?>
