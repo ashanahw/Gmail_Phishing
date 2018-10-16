@@ -5,8 +5,24 @@ Inorder to run this project on your local machine you need to install a webserve
 
 
 # How to setup
+
+# Setup/Enable LocalHost in your Computer
+
+In order to activate localhost server on Windows 7 navigate to:
+
+-> Control Panel -> Programs and Features -> Turn Windows features on or off
+Then search for Internet Information Services and check its checkbox.
+
+Wait for Windows to make the changes, no need for immediate restart, the server will be enabled.
+
+You can now navigate to
+
+127.0.0.1 
+or
+http://localhost
+
 ## windows enviroment
-1.Intall WAMP server to your system.
+1.Intall WAMP server/UWamp server/Easy PHP to your system.
 
 2.Download this repository and extract the content or clone it to your local machine.
 
@@ -16,7 +32,6 @@ Inorder to run this project on your local machine you need to install a webserve
 4.Run the wamp server.
 
 5.Open up the browser and navigate to localhost/Gmail_phishing.
-
 
 ## Linux enviroment
 1.Install Apache server if it is not already available on the system.
