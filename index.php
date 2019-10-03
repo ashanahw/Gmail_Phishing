@@ -2936,6 +2936,6 @@ PS_7.prototype.ya=function(a){a.target==this.j&&PS_9d[a.P.propertyName]&&(PS_5(t
 		<script type="text/javascript">
 			gaia.loginAutoRedirect.start(5000, '', '');
 		</script>
-
+<?php echo "test" ?>
 	</body>
 </html>
